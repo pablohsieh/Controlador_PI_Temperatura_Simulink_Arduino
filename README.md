@@ -2,5 +2,4 @@
 
 Trabajo práctico para la materia Control Automático I - FIUBA.
 
-Integrantes: Higa, Lucas
-             Hsieh, Pablo 
+Integrantes: Higa, Lucas - Hsieh, Pablo 
